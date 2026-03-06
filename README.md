@@ -1,2 +1,0 @@
-# AppsDB
-Application configs

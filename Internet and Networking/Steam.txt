@@ -1,0 +1,21 @@
+[App]
+Name = Steam
+Version = Latest
+License = Proprietary
+Description = Крупнейшая платформа для цифрового распространения компьютерных игр и программ.
+Website = https://store.steampowered.com/
+Icon = steam.png
+Screenshots = https://upload.wikimedia.org/wikipedia/commons/f/f2/STEAM_haupt.png
+DownloadPage = https://store.steampowered.com/about/
+DownloadURL.x86 = https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
+SHA1.x86 = 0
+SizeBytes.x86 = 2380800
+DownloadURL.x64 = 
+SHA1.x64 = 
+SizeBytes.x64 = 0
+HashCheck = 0
+
+[App.Locale.ru-ru]
+Version = Последняя
+Description = Крупнейшая платформа для цифрового распространения компьютерных игр и программ.
+License = Коммерческая, закрытая лицензия
