@@ -1,0 +1,29 @@
+[App]
+Name = Notepad++
+Version = 8.9.2
+License = GPL 3.0+
+Description = Text editor with syntax highlighting and markup support.
+Website = https://notepad-plus-plus.org
+Icon = notepad_plus_plus.png
+Screenshots = https://upload.wikimedia.org/wikipedia/commons/6/62/Notepad%2B%2B_v8.9.1_on_Windows_11%2C_with_MediaWiki_1.45.1_source_code%2C_with_split_window_view_and_autocompletion.png
+DownloadPage = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/
+DownloadURL.x86 = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.Installer.exe
+SHA1.x86 = ca8c011fb976881372be8b9b3eb0e16cfda1e216
+SizeBytes.x86 = 6735496
+DownloadURL.x64 = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.Installer.x64.exe
+SHA1.x64 = 5aca07500f99a8afee0e98c5265803607c4c749b
+SizeBytes.x64 = 6871688
+HashCheck = 1
+SilentParameters =
+
+[App.Locale.ru-ru]
+Description = Текстовый редактор с подсветкой синтаксиса и разметки.
+
+[App.WindowsXP]
+Version = 7.9.2
+DownloadURL.x86 = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.2/npp.7.9.2.Installer.exe
+SHA1.x86 = 5506e394e11d4cfe626c8a7ee791b50dca256a2a
+SizeBytes.x86 = 3853600
+DownloadURL.x64 = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.2/npp.7.9.2.Installer.x64.exe
+SHA1.x64 = 440959015cf85102e16e76e2bde9499d6474bea6
+SizeBytes.x64 = 4133472

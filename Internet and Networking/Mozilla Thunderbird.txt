@@ -14,6 +14,7 @@ DownloadURL.x64 = https://archive.mozilla.org/pub/thunderbird/releases/148.0/win
 SHA1.x64 = 574ebae6af910ae3424a0bfb2ed0c9ab92db603a
 SizeBytes.x64 = 80013472
 HashCheck = 1
+SilentParameters =
 
 [App.Locale.ru-ru]
 Description = Бесплатный почтовый клиент с открытым исходным кодом, поддерживающий электронную почту, календарь и управление контактами.

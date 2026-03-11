@@ -1,0 +1,21 @@
+[App]
+Name = Telegram
+Version = Latest
+License = GPL v2
+Description = Fast and secure messenger for mobile devices and computers.
+Website = https://telegram.org
+Icon = telegram.png
+Screenshots = https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png
+DownloadPage = https://desktop.telegram.org
+DownloadURL.x86 = 
+SHA1.x86 = 
+SizeBytes.x86 = 
+DownloadURL.x64 = https://td.telegram.org/tx64/tsetup-x64.6.6.2.exe
+SHA1.x64 = 0
+SizeBytes.x64 = 51059736
+HashCheck = 0
+SilentParameters =
+
+[App.Locale.ru-ru]
+Version = Последняя
+Description = Быстрый и безопасный мессенджер для мобильных устройств и компьютеров.

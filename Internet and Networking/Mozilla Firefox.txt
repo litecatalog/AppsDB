@@ -14,6 +14,7 @@ DownloadURL.x64 = https://ftp.mozilla.org/pub/firefox/releases/148.0/win64-EME-f
 SHA1.x64 = 2adce1ffde8a83b9da4d108ddc26808f23393a95
 SizeBytes.x64 = 87756504
 HashCheck = 1
+SilentParameters =
 
 [App.Locale.ru-ru]
 Description = Популярный веб-браузер с открытым исходным кодом, безопасный, быстрый и удобный для пользователей по всему миру.

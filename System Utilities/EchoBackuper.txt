@@ -1,0 +1,21 @@
+[App]
+Name = EchoBackuper
+Version = 1.0.3
+License = Custom
+Description = Application for backups. Backups are created using the echo principle. New and updated files are copied from the original folder to the backup. Renaming, moving and deleting files occurs only in the backup.
+Website = https://github.com/r57zone/EchoBackuper
+Icon = echobackuper.png
+Screenshots = https://github-production-user-asset-6210df.s3.amazonaws.com/9499881/260224426-a42082e5-e67e-4640-8484-a253eda65329.jpg;https://github-production-user-asset-6210df.s3.amazonaws.com/9499881/260224435-b973da26-7da7-4c2b-b6a4-9dccf418c8a8.jpg;
+DownloadPage = https://github.com/r57zone/EchoBackuper/releases/
+DownloadURL.x86 = https://github.com/r57zone/EchoBackuper/releases/download/1.0.3/EchoBackuper.1.0.3.Portable.zip
+SHA1.x86 = 701fbab17cefdf49acf02cd1a246d492d9a19c8c
+SizeBytes.x86 = 1050995
+DownloadURL.x64 =
+SHA1.x64 =
+SizeBytes.x64 =
+HashCheck = 1
+SilentParameters =
+
+[App.Locale.ru-ru]
+License = Особая
+Description = Приложение для создания резервных копий. Резервные копии создаются по принципу эха. Новые и обновлённые файлы копируются из оригинальной папки в резервную копию. Переименование, перемещение и удаление файлов происходит только в резервной копии.

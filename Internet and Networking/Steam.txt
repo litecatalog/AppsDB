@@ -14,8 +14,9 @@ DownloadURL.x64 =
 SHA1.x64 = 
 SizeBytes.x64 = 0
 HashCheck = 0
+SilentParameters =
 
 [App.Locale.ru-ru]
 Version = Последняя
 Description = Крупнейшая платформа для цифрового распространения компьютерных игр и программ.
-License = Коммерческая, закрытая лицензия
+License = Коммерческая, закрытая
