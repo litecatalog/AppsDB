@@ -1,0 +1,17 @@
+Internet and Networking\Mozilla Firefox.ini
+Internet and Networking\Mozilla Thunderbird.ini
+Internet and Networking\OBS Studio.ini
+Internet and Networking\qBittorrent.ini
+Internet and Networking\Telegram.ini
+Office and Productivity\EasyNotes.ini
+Office and Productivity\KeePass.ini
+Office and Productivity\LibreOffice.ini
+Office and Productivity\Notepad Plus Plus.ini
+Office and Productivity\Sumatra PDF.ini
+Multimedia\Foobar2000.ini
+Multimedia\Media Player Classic - Home Cinema.ini
+Multimedia\Paint.NET.ini
+Multimedia\qView.ini
+Games and Utilities\GOG Galaxy.ini
+Games and Utilities\Steam.ini
+System Utilities\WinCDEmu.ini
